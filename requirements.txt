@@ -1,0 +1,5 @@
+colorzero==2.0
+gpiozero==1.6.2
+paho-mqtt==1.6.1
+rpi-ws281x==4.3.3
+RPi.GPIO==0.7.1
